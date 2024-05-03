@@ -1,2 +1,2 @@
 Hello World!
-emergency fix
+Conflict resolved
